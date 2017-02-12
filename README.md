@@ -2,6 +2,6 @@
 React for frontend, Java for backend, Jersey for REST between them
 
 Created with Yeoman React generator by FountainJS:
-	https://github.com/FountainJS/generator-fountain-react
+	https://github.com/FountainJS/generator-fountain-webapp
 
 	clean install jetty:run
